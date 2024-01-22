@@ -1,0 +1,13 @@
+.cat-box{
+    position: relative;
+    top: -50px;
+}
+
+.icon{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #f5f5f5;
+    margin: auto;
+    margin-bottom: 24px;
+}
